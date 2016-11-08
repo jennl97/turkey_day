@@ -1,0 +1,96 @@
+body{
+    background: #ffa809;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+h1{
+    font-weight: 800;
+    text-align: center;
+}
+
+#constrain{
+    width: 1060px;
+    height: 750px;
+    position:absolute;
+}
+
+p{
+    display: block;
+}
+
+#cornucopia{
+    width: 1000px;
+    height: auto;
+    position: absolute;
+    left: 50px;
+}
+
+#corn{
+    width: auto;
+    height: 250px;
+    position: absolute;
+    left: 900px;
+    top: 400px;
+    cursor: pointer;
+    display: none;
+}
+
+#leaves{
+    width: 900px;
+    height: auto;
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    cursor: pointer;
+    display: none;
+ }
+
+#owls{
+    width: 200px;
+    height: auto;
+    position: absolute;
+    cursor: pointer;
+    display: none;
+}
+
+#pilgrims{
+    height: 300px;
+    width: auto;
+    position: absolute;
+    bottom: 0px;
+    cursor: pointer;
+    display: none;
+}
+
+#pumpkin{
+    position: absolute;
+    left: 1000px;
+    top: 0px;
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+    display: none;
+}
+
+#turkey{
+    height: 150px;
+    width: auto;
+    position: absolute;
+    bottom: 0px;
+    left: 200px;
+    cursor: pointer;
+    display: none;
+}
+
+#turkey_day{
+    width: 400px;
+    height: auto;
+    position: absolute;
+    left: 400px;
+    bottom: 0px;
+    cursor: pointer;
+    display: none;
+}
+
